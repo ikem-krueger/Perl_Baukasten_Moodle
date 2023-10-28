@@ -1,0 +1,10 @@
+1 erster Zwerg
+2 zweiter Zwerg
+3 dritter Zwerg
+4 vierter Zwerg
+5 fuenfter Zwerg
+6 sechster Zwerg
+7 siebter Zwerg
+8 Schneewitchen Braut
+9 Prinz Held
+10 Stiefmutter Hexe
